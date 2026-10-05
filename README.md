@@ -31,4 +31,8 @@ Through these assignments, I practiced:
 
 ## About
 
-These projects were completed as part of my BUS4 118S coursework at San José State University.
+These projects were completed as part of my BUS4 118S coursework at San Jose State University.
+
+## Current Focus
+
+I am currently building experience with GitHub workflows, including branches, commits, pull requests, and repository organization.
