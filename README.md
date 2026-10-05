@@ -36,3 +36,5 @@ These projects were completed as part of my BUS4 118S coursework at San Jose Sta
 ## Current Focus
 
 I am currently building experience with GitHub workflows, including branches, commits, pull requests, and repository organization.
+
+Temporary test line for revert practice.
